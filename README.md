@@ -4,4 +4,4 @@ Un sistema de monitoreo de seguridad mediante el uso de Wireshark el cual es pro
 
 #Intentos Conexión por IP
 Se obtiene la imagen la cual será generada en un archivo de excel.csv
-![Descripción de la Imagen](Monitoreo-Seguridad\IntentosConexión-IP.png)
+![Descripción de la Imagen](Monitoreo-Seguridad/IntentosConexión-IP.png)
