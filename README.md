@@ -1,5 +1,5 @@
 # Monitoreo de Conexiones por IP
-Un sistema de monitoreo de seguridad mediante el uso de Wireshark el cual es procesado por Python para poder obtener reportes en Excel.
+Desarrollo de un sistema práctico de monitoreo de intentos de conexión por IP para capturar y analizar datos de tráfico de red. Utilicé herramientas como Wireshark para la captura de datos y desarrollé scripts en Python para el análisis y visualización de los datos. Los resultados fueron presentados en reportes generados en Excel y visualizaciones en Matplotlib. 
 
 
 ## Intentos Conexión por IP
